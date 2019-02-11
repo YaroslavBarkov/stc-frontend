@@ -1,0 +1,8 @@
+.camera-list-container {
+    background-color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+.Camera:hover {
+    background-color: #FBE9E7;
+}
